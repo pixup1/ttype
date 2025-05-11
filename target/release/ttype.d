@@ -1,1 +1,0 @@
-/home/hectorv/Code/ttype/target/release/ttype: /home/hectorv/Code/ttype/src/color.rs /home/hectorv/Code/ttype/src/main.rs /home/hectorv/Code/ttype/src/pixels.rs /home/hectorv/Code/ttype/src/term_colors.rs

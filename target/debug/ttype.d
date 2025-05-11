@@ -1,1 +1,0 @@
-/home/hectorv/Code/ttype/target/debug/ttype: /home/hectorv/Code/ttype/src/color.rs /home/hectorv/Code/ttype/src/game.rs /home/hectorv/Code/ttype/src/main.rs /home/hectorv/Code/ttype/src/pixels.rs /home/hectorv/Code/ttype/src/term_colors.rs /home/hectorv/Code/ttype/src/utils.rs
