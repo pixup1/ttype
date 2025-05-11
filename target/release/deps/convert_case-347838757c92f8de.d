@@ -1,0 +1,11 @@
+/home/hectorv/Code/ttype/target/release/deps/libconvert_case-347838757c92f8de.rmeta: /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/hectorv/Code/ttype/target/release/deps/libconvert_case-347838757c92f8de.rlib: /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/hectorv/Code/ttype/target/release/deps/convert_case-347838757c92f8de.d: /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs:
+/home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs:
+/home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs:
+/home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs:
+/home/hectorv/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs:

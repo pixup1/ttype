@@ -1,0 +1,1 @@
+/home/hectorv/Code/termtype/target/debug/termtype: /home/hectorv/Code/termtype/src/color.rs /home/hectorv/Code/termtype/src/main.rs /home/hectorv/Code/termtype/src/pixels.rs /home/hectorv/Code/termtype/src/term_colors.rs
